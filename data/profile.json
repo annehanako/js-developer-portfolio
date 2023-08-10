@@ -39,6 +39,7 @@
     "Inglês (Fluente)",
     "Espanhol (Iniciante)"
   ],
+  
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
@@ -50,7 +51,6 @@
       "url": "https://github.com/annehanako/js-developer-portfolio",
       "github": true
     },
-
        {
       "name": "Jogo de Vestir a personagem Sareena (Mortal Kombat) - em desenvolvimento",
       "url": "https://annehanako.github.io/dress-up-game-main-master/",
@@ -65,6 +65,7 @@
     "description": "2022 - Até o momento"
     }
   ],
+  
   "professionalExperience": [
     {
       "name": "Estagiária",
