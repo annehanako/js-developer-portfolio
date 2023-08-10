@@ -19,6 +19,11 @@
         "name": "CSS",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       }
+
+         {
+        "name": "JAVA",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      }
     
     ],
     "softSkills": [
@@ -46,6 +51,12 @@
       "url": "https://github.com/annehanako/js-developer-portfolio",
       "github": true
     }
+
+       {
+      "name": "Jogo de Vestir a personagem Sareena (Mortal Kombat) - em desenvolvimento",
+      "url": "https://annehanako.github.io/dress-up-game-main-master/",
+      "github": true
+    }
   ],
 
   "education": [
@@ -58,7 +69,7 @@
   "professionalExperience": [
     {
       "name": "Estagiária",
-      "period": "2022 - até o momento",
+      "period": "Outubro 2021 - Agosto 2023 ",
       "description": "Cuidados com o Banco de Dados da clínica, com foco na administração e fluxo de pacientes. Experiência em instrumentação cirúrgica, agregando funções extras."
     }
   ]
