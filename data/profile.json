@@ -18,8 +18,7 @@
     {
         "name": "CSS",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
-      }
-
+      },
          {
         "name": "JAVA",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
@@ -50,7 +49,7 @@
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
       "url": "https://github.com/annehanako/js-developer-portfolio",
       "github": true
-    }
+    },
 
        {
       "name": "Jogo de Vestir a personagem Sareena (Mortal Kombat) - em desenvolvimento",
