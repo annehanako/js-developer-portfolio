@@ -5,7 +5,7 @@
   "location": "Florianópolis - SC",
   "phone": "(48) 9 9695-3508",
   "email": "anne.f.hanako@gmail.com",
-  "skills": {
+  "git": {
     "hardSkills": [
       {
         "name": "JavaScript",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Jogo de Vestir a personagem Sareena (Mortal Kombat)",
-      "url": "https://annehanako.github.io/dress-up-game-main-master/",
+      "url": "https://github.com/annehanako/dress-up-game-main-master",
       "github": true
     },
     {
