@@ -1,7 +1,7 @@
 {
   "name": "Anne F Souza",
   "photo": "https://avatars.githubusercontent.com/u/117386596?s=400&u=2ddd12725de293530513bc138708bd9c956aad0b&v=4",
-  "job": "Estagiária",
+  "job": "Dev Fullstack",
   "location": "Florianópolis - SC",
   "phone": "(48) 9 9695-3508",
   "email": "anne.f.hanako@gmail.com",
@@ -12,18 +12,33 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
+        "name": "NodeJS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
         "name": "HTML",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
-    {
+      {
         "name": "CSS",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
-         {
+      {
         "name": "JAVA",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      },
+      {
+        "name": "Docker",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/docker.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
       }
-    
     ],
     "softSkills": [
       "Criatividade",
@@ -33,16 +48,14 @@
       "Organização"
     ]
   },
-
   "languages": [
     "Português BR",
     "Inglês (Fluente)",
     "Espanhol (Iniciante)"
   ],
-  
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "name": "Pokedex usando PokeAPI",
       "url": "https://github.com/annehanako/js-developer-pokedex",
       "github": true
     },
@@ -51,21 +64,29 @@
       "url": "https://github.com/annehanako/js-developer-portfolio",
       "github": true
     },
-       {
-      "name": "Jogo de Vestir a personagem Sareena (Mortal Kombat) - em desenvolvimento",
+    {
+      "name": "Jogo de Vestir a personagem Sareena (Mortal Kombat)",
       "url": "https://annehanako.github.io/dress-up-game-main-master/",
+      "github": true
+    },
+    {
+      "name": "Jogo de Tetris feito em JAVA",
+      "url": "https://github.com/annehanako/tetrisStudy",
+      "github": true
+    },
+    {
+      "name": "API para Apostas, com documentação",
+      "url": "https://github.com/annehanako/Desafio-Back-end-Caleta",
       "github": true
     }
   ],
-
   "education": [
     {
-    "name": "Engenhária de Software",
-    "period": "UNIASSELVI",
-    "description": "2022 - Até o momento"
+      "name": "Engenhária de Software",
+      "period": "UNIASSELVI",
+      "description": "2022 - Até o momento"
     }
   ],
-  
   "professionalExperience": [
     {
       "name": "Estagiária",
@@ -73,6 +94,4 @@
       "description": "Cuidados com o Banco de Dados da clínica, com foco na administração e fluxo de pacientes. Experiência em instrumentação cirúrgica, agregando funções extras."
     }
   ]
-   
-  
 }
